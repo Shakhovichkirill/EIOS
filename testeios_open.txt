@@ -1,9 +1,9 @@
-<?phpp1p1p1p1p1p1p1task2
+<?phpp1p1p1p1p1p1p1
     //  вс€ процедура работает на сесси€х. »менно в ней хран€тс€ данные  пользовател€, пока он находитс€ на сайте. ќчень важно запустить их в  самом начале странички!!!
     session_start();
 $_SESSION = array();
 session_destroy();
-?>
+?>task2
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="/testeios.css">
